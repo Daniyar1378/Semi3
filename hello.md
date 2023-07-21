@@ -57,3 +57,6 @@ ___Git add___
 
 *git branch -d 'name branch'*
 
+---
+
+[Конец 1-го урока](https://storage-api.petstory.ru/resize/1000x1000x80/ad/26/f4/ad26f4f7cb4c48a68c112c5792bbd687.jpeg) 
